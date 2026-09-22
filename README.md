@@ -18,13 +18,13 @@ Texty ve hře jsou česky **bez diakritiky**. Kontrolní součet staženého sou
 
 České texty jsou začleněné do herního kódu a dat. Elite používá sdílené a vnořené textové tokeny a část vět skládá za běhu. Jediná úprava tak může ovlivnit několik různých míst ve hře.
 
-Čeština přidává nároky na skloňování, rod, číslo a shodu. Srozumitelná česká formulace také často potřebuje více místa. Práce proto zahrnuje přepracování tokenizace a skládání vět, kontrolu názvů systémů, paměťových limitů a délky řádků i ověřování výsledku ve hře.
+Čeština přidává nároky na skloňování, rod, větné členy, shodu podmětu s přísudkem... Srozumitelná česká formulace také často potřebuje více místa. Práce proto zahrnuje přepracování tokenizace a skládání vět, kontrolu názvů systémů, paměťových limitů a délky řádků i ověřování výsledku ve hře.
 
 Podrobnosti popisuje [Jak vzniká český překlad](docs/TRANSLATION.md). Přehled vydání je v [CHANGELOG.md](CHANGELOG.md).
 
 ## Připomínky k překladu
 
-Chyby nebo vlastní návrhy můžete popsat v [Issues](https://github.com/jeli-soft/elite-c64-cz/issues).
+Zjištěné chyby nebo vlastní návrhy můžete popsat v [Issues](https://github.com/jeli-soft/elite-c64-cz/issues).
 
 ## Ukázky ze hry
 
