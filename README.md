@@ -12,10 +12,6 @@ Kompletně přeložená, funkční česká verze hry **Elite pro Commodore 64** 
 
 Obraz diskety obsahuje celou přeloženou hru. Je určený pro Commodore 64 v režimu PAL s mechanikou 1541 nebo pro odpovídající nastavení emulátoru, například [VICE](https://vice-emu.sourceforge.io/).
 
-1. Připojte obraz D64 k emulované mechanice 1541, případně jej použijte s kompatibilním vybavením pro skutečný C64.
-2. Spusťte hru z připojené diskety.
-3. Pokud se zavaděč zeptá na rychlé načítání, zvolte **N** pro standardní načtení.
-
 Texty ve hře jsou česky **bez diakritiky**. Kontrolní součet staženého souboru najdete v [SHA256SUMS.txt](downloads/SHA256SUMS.txt).
 
 ## Co překlad obnáší
@@ -28,7 +24,7 @@ Podrobnosti popisuje [Jak vzniká český překlad](docs/TRANSLATION.md). Přehl
 
 ## Připomínky k překladu
 
-Chybu nebo návrh lepší formulace můžete popsat v [Issues](https://github.com/jeli-soft/elite-c64-cz/issues). Pomůže uvedení verze hry, konkrétní obrazovky či systému a snímek problematického textu. U nesprávného popisu planety připojte také číslo galaxie.
+Chyby nebo vlastní návrhy můžete popsat v [Issues](https://github.com/jeli-soft/elite-c64-cz/issues).
 
 ## Ukázky ze hry
 

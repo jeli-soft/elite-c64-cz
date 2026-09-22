@@ -12,10 +12,6 @@ A complete, playable **Czech translation of Elite for the Commodore 64** by **Je
 
 The disk image contains the complete translated game. It is intended for a PAL Commodore 64 with a 1541 drive, or an emulator configured accordingly, such as [VICE](https://vice-emu.sourceforge.io/).
 
-1. Attach the D64 image to an emulated 1541 drive, or use compatible disk-image equipment with a real C64.
-2. Start the game from the attached disk.
-3. If the loader asks whether to use fast loading, choose **N** to use standard loading.
-
 The in-game text is Czech **without diacritics**. The download's checksum is available in [SHA256SUMS.txt](downloads/SHA256SUMS.txt).
 
 ## What the translation involves
@@ -28,7 +24,7 @@ Read [How the Czech translation works](docs/TRANSLATION.en.md) for more detail. 
 
 ## Translation feedback
 
-Please use [Issues](https://github.com/jeli-soft/elite-c64-cz/issues) to report a problem or suggest better wording. Include the game version, the relevant screen or system, and a screenshot of the text where possible. For a planet-description issue, include the galaxy number as well.
+You can report bugs or share your suggestions in [Issues](https://github.com/jeli-soft/elite-c64-cz/issues).
 
 ## Screenshots
 
