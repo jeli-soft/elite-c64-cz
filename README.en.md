@@ -1,4 +1,4 @@
-# Elite for the Commodore 64 — Czech translation
+# Elite for the Commodore 64 - Czech translation
 
 [Česky](README.md)
 
@@ -8,7 +8,7 @@ A complete, playable **Czech translation of Elite for the Commodore 64** by **Je
 
 ## Download and run
 
-**[Download the Czech game — batch111 (.d64)](https://github.com/jeli-soft/elite-c64-cz/raw/refs/heads/main/downloads/elite-c64-cz-batch111-pal.d64)**
+**[Download the Czech game - batch111 (.d64)](https://github.com/jeli-soft/elite-c64-cz/raw/refs/heads/main/downloads/elite-c64-cz-batch111-pal.d64)**
 
 The disk image contains the complete translated game. It is intended for a PAL Commodore 64 with a 1541 drive, or an emulator configured accordingly, such as [VICE](https://vice-emu.sourceforge.io/).
 

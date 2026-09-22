@@ -1,4 +1,4 @@
-# Elite pro Commodore 64 — český překlad
+# Elite pro Commodore 64 - český překlad
 
 [English](README.en.md)
 
@@ -8,7 +8,7 @@ Kompletně přeložená, funkční česká verze hry **Elite pro Commodore 64** 
 
 ## Stažení a spuštění
 
-**[Stáhnout českou hru — batch111 (.d64)](https://github.com/jeli-soft/elite-c64-cz/raw/refs/heads/main/downloads/elite-c64-cz-batch111-pal.d64)**
+**[Stáhnout českou hru - batch111 (.d64)](https://github.com/jeli-soft/elite-c64-cz/raw/refs/heads/main/downloads/elite-c64-cz-batch111-pal.d64)**
 
 Obraz diskety obsahuje celou přeloženou hru. Je určený pro Commodore 64 v režimu PAL s mechanikou 1541 nebo pro odpovídající nastavení emulátoru, například [VICE](https://vice-emu.sourceforge.io/).
 
