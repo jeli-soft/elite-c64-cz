@@ -6,7 +6,7 @@ Kompletně přeložená, funkční česká verze hry **Elite pro Commodore 64** 
 
 **Na překladu dál pracuji a budu jej průběžně vylepšovat.** Batch111 je současná hratelná verze; další vydání mohou přinést jazykové úpravy, opravy a zpřesnění textů.
 
-## Stažení a spuštění
+## Stažení hry
 
 **[Stáhnout českou hru - batch111 (.d64)](https://github.com/jeli-soft/elite-c64-cz/raw/refs/heads/main/downloads/elite-c64-cz-batch111-pal.d64)**
 

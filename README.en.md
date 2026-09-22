@@ -6,7 +6,7 @@ A complete, playable **Czech translation of Elite for the Commodore 64** by **Je
 
 **I am continuing to work on and improve the translation.** Batch111 is the current playable version; future releases may refine the wording, fix issues and improve the text.
 
-## Download and run
+## Download the game
 
 **[Download the Czech game - batch111 (.d64)](https://github.com/jeli-soft/elite-c64-cz/raw/refs/heads/main/downloads/elite-c64-cz-batch111-pal.d64)**
 
